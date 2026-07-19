@@ -51,6 +51,12 @@ export const certifications: Certification[] = [
     badgeImage: '/images/badges/az900.png',
   },
   {
+    name: 'AI-900: Microsoft Azure AI Fundamentals',
+    issuer: 'Microsoft',
+    status: 'completed',
+    credentialUrl: 'https://learn.microsoft.com/api/credentials/share/pt-br/ArthurFerreiraReis-9408/DA7F2BA85E1BC37F?sharingId=DC7912023DF53697',
+  },
+  {
     name: 'GCP Associate Cloud Engineer',
     issuer: 'Google',
     status: 'completed',
